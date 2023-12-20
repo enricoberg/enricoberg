@@ -9,7 +9,7 @@
 
   
 
-<img  align="center"  alt="CodingLofi"  src="https://i.postimg.cc/zXdtzrrD/optimized.gif">
+<img  align="center" width="100%" alt="CodingLofi"  src="https://i.postimg.cc/zXdtzrrD/optimized.gif">
 
   
 
