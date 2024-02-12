@@ -1,6 +1,7 @@
 
 
 
+
 <h1  align="center">Enrico Bergamini</h1>
 
   
@@ -36,6 +37,8 @@
 ![WEBPACK LOGO](https://img.shields.io/badge/WEB-PACK-8DD6F9?style=for-the-badge&logo=Webpack)
 
 ![JAVASCRIPT LOGO](https://img.shields.io/badge/Java-Script-F7DF1E?style=for-the-badge&logo=Javascript)
+
+![JAVA LOGO](https://img.shields.io/badge/Java-6DB33F?style=for-the-badge&logo=Spring-Boot&logoColor=FFF)
 
 ![MySQL](https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=mysql&logoColor=white)
 
