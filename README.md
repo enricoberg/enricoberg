@@ -18,9 +18,10 @@
 
 - 🦸🏻‍♂️ On a journey to become a professional developer.
 
-- 📖Attending **BACKEND DEVELOPMENT** Master @ **Start2Impact University**
+- ✅ Completed **BACKEND DEVELOPMENT** Master @ **Start2Impact University**
 
-- 🚧Currently learning **JAVA** and **SPRING BOOT** framework
+- 🚧 Currently working to add features to my [SpringBoot Webapp](https://github.com/enricoberg/Med-Data-Hub) for Non-Active Medical Devices Data-Management.
+
 
 ## My stack
 
