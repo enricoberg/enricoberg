@@ -20,7 +20,7 @@
 
 - ✅ Completed **BACKEND DEVELOPMENT** Master @ **Start2Impact University**
 
-- 🚧 Currently working to add features to my [SpringBoot Webapp](https://github.com/enricoberg/Med-Data-Hub) for Non-Active Medical Devices Data-Management.
+- 🚧 Currently studying Angular Framework.
 
 
 ## My stack
