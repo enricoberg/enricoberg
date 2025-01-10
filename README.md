@@ -20,7 +20,7 @@
 
 - ✅ Completed **BACKEND DEVELOPMENT** Master @ **Start2Impact University**
 
-- 🚧 Currently studying Angular Framework.
+
 
 
 ## My stack
